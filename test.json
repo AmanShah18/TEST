@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/AmanShah18/TEST/refs/heads/main/check.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/AmanShah18/TEST/refs/heads/main/check.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/AmanShah18/TEST/refs/heads/main/check2.yaml",
+        "name": "Foo2"
+    }]
+}
